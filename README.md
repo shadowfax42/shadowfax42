@@ -38,6 +38,37 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shadowfax42&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Siham's GitHub Stats" />
 </a>
 
+
+<br>
+<br>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Dash-informational?style=flat&logo=dash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rmarkdown-informational?style=flat&logo=rmarkdown&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/ML-Classification-informational?style=flat&logo=classification&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/ML-Regression-informational?style=flat&logo=regression&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/ML-Clustering-informational?style=flat&logo=clustering&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=spark&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-SparklyR-informational?style=flat&logo=sparkyr&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-PySpark-informational?style=flat&logo=pyspark&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-AWS-informational?style=flat&logo=aws&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-GCP-informational?style=flat&logo=gcp&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-Azure-informational?style=flat&logo=azure&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/BigData-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Languages-English-informational?style=flat&logo=english&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Languages-Arabic-informational?style=flat&logo=arabic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Languages-French-informational?style=flat&logo=french&logoColor=white&color=4AB197)
 <br>
 <br>
 
