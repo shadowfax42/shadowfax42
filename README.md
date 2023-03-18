@@ -7,7 +7,10 @@
 
 I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
 
+### What am I up to this year?
+
 - 🌱 I'm taking my last course in the MS in Analytics (Analytical/Statistics track) program at Georgia Tech
+- 📖 I'm currently reading Leviathan Falls (Book 9 of the Expanse)
 - 🔭 I’m planning to start end-to-end ML project as soon as my semester ends in April. Stay tuned!!
 
 ## 📌 Pinned Repositories
