@@ -85,7 +85,7 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 ### Want to know how I made this README?
 
 - Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
-- For Github Stats, I used Anurag Hazra‘s [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
+- For Github Stats, I used Anurag Hazra‘s [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shadowfax42/shadowfax42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
