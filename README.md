@@ -5,7 +5,10 @@
 
 ### Hi there 👋
 
-I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer, and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
+I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
+
+- 🔭 I’m currently working on an end-to-end ML project
+- 🌱 I’m currently learning deep learning with Pytorch
 
 
 ## 📌 Pinned Repositories
