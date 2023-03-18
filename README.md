@@ -1,15 +1,15 @@
-
-
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/siham-elmali/)
+
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.hackerrank.com/siham_elmali))
+
+
 
 ### Hi there 👋
 
 I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
 
-- 🔭 I’m currently working on an end-to-end ML project
-- 🌱 I’m currently learning deep learning with Pytorch
-
+- 🌱 I'm taking my last course in the MS in Analytics (Analytical/Statistics track) program at Georgia Tech
+- 🔭 I’m planning to start end-to-end ML project as soon as my semester ends in April. Stay tuned!!
 
 ## 📌 Pinned Repositories
 
