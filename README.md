@@ -5,19 +5,24 @@
 
 ### Hi there 👋
 
+I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer, and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
+
+
 ## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/gatechdvateam/energy_hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub"&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <br>
 
 <a href="https://github.com/shadowfax42/image-compression-using-kmeans-algorithm">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans-algorithm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<br>
+
+<a href="https://github.com/gatechdvateam/energy_hub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 <a href="https://github.com/shadowfax42/mushroom-edibility-prediction">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
