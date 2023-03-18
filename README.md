@@ -1,5 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/siham-elmali/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=black)](https://www.hackerrank.com/siham_elmali)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=brightgreen)](https://www.hackerrank.com/siham_elmali)
 
 
 
