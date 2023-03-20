@@ -17,21 +17,21 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 <br>
 
 <a href="https://github.com/gatechdvateam/energy_hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/shadowfax42/image-compression-using-kmeans">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/shadowfax42/mushroom-edibility-prediction">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -41,10 +41,10 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 <br>
 
 <a href="https://github.com/shadowfax42">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shadowfax42&show_icons=true&theme=dracula&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Siham's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api?username=shadowfax42&show_icons=true&theme=dracula&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Siham's GitHub Stats" />
 </a>
 <a href="https://github.com/shadowfax42">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfax42&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/top-langs/?username=shadowfax42&langs_count=8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -85,7 +85,9 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 ### Want to know how I made this README?
 
 - Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
-- For Github Stats, I used Anurag Hazra‘s [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
+- For Github Stats, I forked Anurag Hazra‘s [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
+- To set up your own Vercel instance, check out this [YouTube Video](https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s)
+- For badges, I used [shields.io](https://shields.io/)
 
 <!--
 **shadowfax42/shadowfax42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
