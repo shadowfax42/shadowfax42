@@ -40,13 +40,6 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 
 <br>
 
-<a href="https://github.com/shadowfax42">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-master-shadowfax42.vercel.app/api?username=shadowfax42&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="Siham's GitHub Stats" />
-</a>
-<a href="https://github.com/shadowfax42">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-master-shadowfax42.vercel.app/api/top-langs/?username=shadowfax42&theme=dracula&langs_count=8&hide=html,css&" />
-</a>
-
 <br>
 <br>
 
