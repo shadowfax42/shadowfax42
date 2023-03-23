@@ -17,21 +17,21 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 <br>
 
 <a href="https://github.com/gatechdvateam/energy_hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&theme=transparent" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&theme=gruvbox" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/shadowfax42/image-compression-using-kmeans">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=transparent" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=gruvbox" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/shadowfax42/mushroom-edibility-prediction">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&theme=transparent" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-shadowfax42.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&theme=gruvbox" />
 </a>
 
 <br>
