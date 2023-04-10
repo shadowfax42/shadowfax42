@@ -10,7 +10,7 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 ### What am I up to this year?
 
 - 🌱 I'm taking my last course in the MS in Analytics (Analytical/Statistics track) program at Georgia Tech
-- 📖 I'm currently reading Leviathan Falls (Book 9 of the Expanse)
+- 📖 Just finished Leviathan Falls (Book 9 of the Expanse). What a journey it was! hands-down one of the best Sci-fi book series I've ever read. I will be reading Red Rising next. 
 - 🔭 I’m planning to start end-to-end ML project as soon as my semester ends in April. Stay tuned!!
 
 ## 📌 Pinned Repositories
