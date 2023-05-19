@@ -9,8 +9,14 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 
 ### What am I up to this year?
 
-- 🌱 I'm taking my last course in the MS in Analytics (Analytical/Statistics track) program at Georgia Tech
-- 📖 Just finished Leviathan Falls (Book 9 of the Expanse). What a journey that was! hands-down one of the best Sci-fi book series I've ever read. I will be reading Red Rising next. 
+- 🌱 Just finished my MS in Analytics (Analytical/Statistics track) program at Georgia Tech
+- 📖 Books I am reading or have read:
+  - [x] Leviathan Falls (Book 9 of The Expanse)
+  - [x] The Long Way to a Small, Angry Planet (Book 1 of The Wayfarers series)
+  - [ ] Wool by Hugh Howey (Book 1 of The Silo series)
+  - [ ] The Stranger by Albert Camus
+  - [ ] A Man's search for meaning by Victor E Frankl
+  - [ ] Meditations on First Philosophy by René Descartes
 - 🔭 I’m planning to start end-to-end ML project as soon as my semester ends in April. Stay tuned!!
 
 ## 📌 Pinned Repositories
