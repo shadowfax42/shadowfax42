@@ -7,19 +7,6 @@
 
 I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, play soccer, tennis, and video games. I am currently playing Spiritfarer and I quite enjoy it. I also love cooking and baking at least once or twice a week. 
 
-### What am I up to this year?
-
-- 🌱 Just finished my MS in Analytics (Analytical/Statistics track) program at Georgia Tech
-- 📖 Books I am reading or have read:
-  - [x] Leviathan Falls (Book 9 of The Expanse)
-  - [x] The Long Way to a Small, Angry Planet (Book 1 of The Wayfarers series)
-  - [x] Wool by Hugh Howey (Book 1 of The Silo series)
-  - [ ] Shift by Hugh Howey (Book 2 of The Silo series)
-  - [ ] The Stranger by Albert Camus
-  - [ ] A Man's search for meaning by Victor E Frankl
-  - [ ] Meditations on First Philosophy by René Descartes
-- 🔭 I’m planning to start end-to-end ML project as soon as my semester ends in April. Stay tuned!!
-
 ## 📌 Pinned Repositories
 <br>
 
