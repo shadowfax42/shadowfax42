@@ -63,9 +63,13 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 ### 📌 Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&theme=github_dark&hide_border=true)](https://github.com/gatechdvateam/energy_hub)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/mushroom-edibility-prediction)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/image-compression-using-kmeans)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfax42&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/shadowfax42)
+<br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shadowfax42&theme=github_dark&hide_border=true)
 
 ---
