@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Siham, a data scientist working at Intel. In my free time, I like to read sci-fi books, backpacking/hiking, play soccer, tennis, and video games. I also love cooking and baking at least once or twice a week. 
+Greetings!🌟I'm Siham, a data scientist who's also deeply immersed in the world of web development and application design. By day, I'm crunching numbers and unraveling insights at Intel, but when the sun sets, my digital adventures begin. Whether I'm crafting elegant web solutions, delving into the boundless realms of data visualization, or diving deep into the mysteries of machine learning algorithms, I'm always on the lookout for new ways to merge data science with the dynamic landscape of the web. Beyond the screen, you'll find me exploring the great outdoors, losing myself in the pages of sci-fi novels 📚, perfecting my jiu-jitsu moves 🥋, honing my skills on the tennis court 🎾, cheering on FC Barcelona, or whipping up culinary masterpieces in the kitchen 🍳. Life's a grand adventure, and I'm eager to embrace every twist and turn along the way. 
 <br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/siham-elmali/)
@@ -71,12 +69,10 @@ I'm Siham, a data scientist working at Intel. In my free time, I like to read sc
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/image-compression-using-kmeans)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfax42&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/shadowfax42)
-<br>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shadowfax42&theme=github_dark&hide_border=true)
 
-#### Contributions under Intel SSO
-![intel_contrib](https://github.com/shadowfax42/shadowfax42/assets/76499689/0886c6ad-d3d6-4159-99eb-97bb058bd1ad)
+### Contributions under my Intel Github [repo](https://github.com/selmali11)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=selmali11&theme=github_dark&hide_border=true)
+
 
 ---
 ##### Want to know how I made this README?
