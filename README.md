@@ -72,7 +72,10 @@ Greetings!🌟I'm Siham, a data scientist who's also deeply immersed in the worl
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/image-compression-using-kmeans)
 <br>
 
-### Contributions under my Intel Github [repo](https://github.com/selmali11)
+### Contributions under my Personal Github [repo](https://github.com/shadowfax42)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shadowfax42&theme=github_dark&hide_border=true)
+
+### Contributions under my work Github [repo](https://github.com/selmali11)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=selmali11&theme=github_dark&hide_border=true)
 
 
