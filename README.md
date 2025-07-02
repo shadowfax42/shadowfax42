@@ -1,9 +1,11 @@
 Greetings!🌟I'm Siham, a data scientist who's also deeply immersed in the world of web development and application design. By day, I'm crunching numbers and unraveling insights at Intel, but when the sun sets, my digital adventures begin. Whether I'm crafting elegant web solutions, delving into the boundless realms of data visualization, or diving deep into the mysteries of machine learning algorithms, I'm always on the lookout for new ways to merge data science with the dynamic landscape of the web. Beyond the screen, you'll find me exploring the great outdoors, losing myself in the pages of sci-fi novels 📚, perfecting my jiu-jitsu moves 🥋, honing my skills on the tennis court 🎾, cheering on FC Barcelona, or whipping up culinary masterpieces in the kitchen 🍳. Life's a grand adventure, and I'm eager to embrace every twist and turn along the way. 
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/siham-elmali/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank&logoColor=white&color=brightgreen)](https://www.hackerrank.com/siham_elmali)
-<img src="https://komarev.com/ghpvc/?username=shadowfax42&style=plastic&color=blue"/>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/siham-elmali/)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=hackerrank)](https://www.hackerrank.com/siham_elmali)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-Profile-informational?style=flat&logo=leetcode)](https://leetcode.com/u/siham1211/)
+
+<img src="https://komarev.com/ghpvc/?username=shadowfax42&style=plastic&color=green"/>
 
 ---
 
