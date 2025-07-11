@@ -68,12 +68,11 @@ Greetings!🌟I'm Siham, a data scientist who's also deeply immersed in the worl
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gatechdvateam&repo=energy_hub&theme=github_dark&hide_border=true)](https://github.com/gatechdvateam/energy_hub)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=learning-sql&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/learning-sql)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=data-mining-and-statistical-learning&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/data-mining-and-statistical-learning)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=mushroom-edibility-prediction&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/mushroom-edibility-prediction)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowfax42&repo=image-compression-using-kmeans&theme=github_dark&hide_border=true)](https://github.com/shadowfax42/image-compression-using-kmeans)
-<br>
+
 
 ### Contributions under my Personal Github [repo](https://github.com/shadowfax42)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shadowfax42&theme=github_dark&hide_border=true)
